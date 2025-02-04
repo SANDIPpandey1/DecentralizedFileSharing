@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "hardhat": "^2.22.18"
+    "create-react-app": "^5.0.1",
+    "hardhat": "^2.22.18",
+    "web-vitals": "^4.2.4"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0"
